@@ -25,7 +25,8 @@
 ### *DATA COLLECTION AND PRE-PROCESSING*
 The data collection and preprocessing phase of the project involves gathering relevant data on COVID-19 in India and preparing it for analysis.
 An API is used to fetch data related to Covid19. 
-![image](https://github.com/Rushikesh-Kharat/Covid19-India-Exploratory-Data-Analysis/assets/99657888/f8848f61-b9ca-4604-bec2-318efd701460)
+![2](https://github.com/OmMahalle/Covid-19-EDA/assets/133775655/9cabd93d-7779-49ba-895b-227a5ad5aa31)
+
 
 <br /> 
 
@@ -44,15 +45,18 @@ Data is then categorized as State-wise, District-wise data and based on timeline
 
 ## *Data Scraping:*
 
-![image](https://github.com/Rushikesh-Kharat/Covid19-India-Exploratory-Data-Analysis/assets/99657888/db65bbcc-054f-47ed-98a1-19c590966f90)
+![3](https://github.com/OmMahalle/Covid-19-EDA/assets/133775655/301f3385-2e84-45a5-86be-32bcfb0452d9)
+
 
  <br /> 
 
 ## *Data Transformation including flattening of the data:*
 
-![image](https://github.com/Rushikesh-Kharat/Covid19-India-Exploratory-Data-Analysis/assets/99657888/fb4d510d-44fa-4205-87cd-1df63ec70a6c)
+![4](https://github.com/OmMahalle/Covid-19-EDA/assets/133775655/2d259fa7-8144-4d81-8425-ca619ee00ea4)
 
-![image](https://github.com/Rushikesh-Kharat/Covid19-India-Exploratory-Data-Analysis/assets/99657888/e42afd08-adb0-43b1-b9d7-dcce4b3b32a6)
+
+![5](https://github.com/OmMahalle/Covid-19-EDA/assets/133775655/9fa9d741-99af-4c17-830b-ca4fa8512128)
+
 
  <br /> 
 
