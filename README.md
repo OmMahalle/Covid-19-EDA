@@ -81,22 +81,26 @@ Data is then categorized as State-wise, District-wise data and based on timeline
 
 ### *Converting into csv files:*
 
-![image](https://github.com/Rushikesh-Kharat/Covid19-India-Exploratory-Data-Analysis/assets/99657888/173d74a2-16fa-4e7e-8b14-9a9642fc5da7)
+![9](https://github.com/OmMahalle/Covid-19-EDA/assets/133775655/22d89573-490b-4003-ae5f-3bd8a73bfb70)
+
  
 <br />
 
 ### *KEY PERFORMANCE INDICATORS*
 #### *A KPI, or Key Performance Indicator, is a measurable value that helps assess how effectively an organization or individual is achieving important goals. KPIs provide insights into performance, guiding decisions and improvements by offering quantifiable information on various aspects of success. * 
-![image](https://github.com/Rushikesh-Kharat/Covid19-India-Exploratory-Data-Analysis/assets/99657888/7387c7d2-cbcd-4767-8fd1-56f4dcc9d01a)
+![10](https://github.com/OmMahalle/Covid-19-EDA/assets/133775655/0fc04e9e-ecb9-4a8e-86b4-ad2a6f579ce9)
+
 <br />
 
 ### *KEY FINDINGS*
-![image](https://github.com/Rushikesh-Kharat/Covid19-India-Exploratory-Data-Analysis/assets/99657888/292fdb4d-752c-4f9e-aaeb-2e33c07068c6)
+![11](https://github.com/OmMahalle/Covid-19-EDA/assets/133775655/bb62bc5d-808c-4d1f-ad83-d7a465cb2ea8)
+
 
 <br />
 
 ### *VISUAL REPRESENTATION AND ANALYSIS*
-![image](https://github.com/Rushikesh-Kharat/Covid19-India-Exploratory-Data-Analysis/assets/99657888/fe8b70b8-cdb9-4749-8015-3060eb4f7e42)
+![12](https://github.com/OmMahalle/Covid-19-EDA/assets/133775655/b6cb87a4-ad34-400d-be88-2d8996f2079e)
+
 
 <br />
 
@@ -129,6 +133,7 @@ Cleaning the data was an essential step to ensure the accuracy and reliability o
 These challenges were overcome through collaboration, research, and iterative development. Documenting these obstacles and solutions here will help future contributors and developers understand the project's history and complexities.
 
 ### *CONCLUSION*
-![image](https://github.com/Rushikesh-Kharat/Covid19-India-Exploratory-Data-Analysis/assets/99657888/8198805b-b6d8-4b11-8087-784fe9254957)
+![13](https://github.com/OmMahalle/Covid-19-EDA/assets/133775655/6e3051a2-7af3-417c-b46a-9bc4e1a87d11)
+
 
 ##Thank You !
