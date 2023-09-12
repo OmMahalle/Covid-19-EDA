@@ -5,7 +5,8 @@
 #### This project is a data analysis project on COVID-19 in India. It aims to provide insights into the patterns and trends of the pandemic in India and identify potential implications for different sectors, such as healthcare, retail, travel, and investment. The goal of the project is to help organizations make informed decisions by leveraging data-driven insights and evidence-based strategies. 
 <br /> 
 
-![image](https://github.com/Rushikesh-Kharat/Covid19-India-Exploratory-Data-Analysis/assets/99657888/0779a54a-f3e0-4548-8e96-8da8558b7578)
+![266233740-0779a54a-f3e0-4548-8e96-8da8558b7578](https://github.com/OmMahalle/Covid-19-EDA/assets/133775655/3e0f6f09-9d3f-4c1b-9b7d-24cd255e4698)
+
 
 <br />
 
