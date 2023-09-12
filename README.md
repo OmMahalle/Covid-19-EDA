@@ -66,15 +66,18 @@ Data is then categorized as State-wise, District-wise data and based on timeline
  
 ### *Dropping Duplicate Records:*
 
-![image](https://github.com/Rushikesh-Kharat/Covid19-India-Exploratory-Data-Analysis/assets/99657888/20608d8a-15ee-4078-847f-8837acb48caf)
+![6](https://github.com/OmMahalle/Covid-19-EDA/assets/133775655/379706e9-fb4f-4d50-8080-a240ac40adb4)
+
 
 
 ### *Dropping Unnecessary columns from the dataframe:*
 
-![image](https://github.com/Rushikesh-Kharat/Covid19-India-Exploratory-Data-Analysis/assets/99657888/ad40521f-c64f-47bc-bd55-4e826d2e359e)
+![7](https://github.com/OmMahalle/Covid-19-EDA/assets/133775655/2b019476-5f38-4f3c-be24-83996df9e702)
 
 
-![image](https://github.com/Rushikesh-Kharat/Covid19-India-Exploratory-Data-Analysis/assets/99657888/6c287826-fc7f-493c-9bdd-58f140bb4f74)
+
+![8](https://github.com/OmMahalle/Covid-19-EDA/assets/133775655/eeee4e37-65c1-46f8-9a86-8637cc0a3856)
+
 
 ### *Converting into csv files:*
 
